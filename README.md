@@ -1,3 +1,3 @@
 ## Aula 05 
 
-Desenvolvido por Melissa Rodrigues.
+Desenvolvido por Melissa Rodrigues Cavalcante.
